@@ -1,4 +1,4 @@
-# Richard Coleman's personal website <rcoleman.uk>
+# My Personal Website: [rcoleman.uk](rcoleman.uk)
 
 Built with Hugo.
 
